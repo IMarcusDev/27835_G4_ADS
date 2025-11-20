@@ -1,0 +1,6 @@
+[submodule "U2/Talleres/T1/MVC_Flutter"]
+	path = U2/Talleres/T1/MVC_Flutter
+	url = https://github.com/IMarcusDev/T1U2_G4_ADC_Flutter.git
+[submodule "U2/Talleres/T1/MVC_Java"]
+	path = U2/Talleres/T1/MVC_Java
+	url = https://github.com/frtipan/T1U2_G4_ADC_Java
