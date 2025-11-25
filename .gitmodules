@@ -4,3 +4,6 @@
 [submodule "U2/Talleres/T1/MVC_Java"]
 	path = U2/Talleres/T1/MVC_Java
 	url = https://github.com/frtipan/T1U2_G4_ADC_Java
+[submodule "U2/Talleres/T1/MVC_Java_Singleton"]
+	path = U2/Talleres/T1/MVC_Java_Singleton
+	url = https://github.com/IMarcusDev/T2U2_G4_ADC_Java_Singleton
