@@ -7,3 +7,9 @@
 [submodule "U2/Talleres/T1/MVC_Java_Singleton"]
 	path = U2/Talleres/T1/MVC_Java_Singleton
 	url = https://github.com/IMarcusDev/T2U2_G4_ADC_Java_Singleton
+[submodule "CÓDIGO/APP_MinGO"]
+	path = CÓDIGO/APP_MinGO
+	url = https://github.com/MatSosa1/MinGO_mobile_app
+[submodule "CÓDIGO/MinGO_API"]
+	path = CÓDIGO/MinGO_API
+	url = https://github.com/MatSosa1/MinGO_API
