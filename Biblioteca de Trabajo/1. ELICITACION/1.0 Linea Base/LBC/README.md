@@ -1,14 +1,44 @@
-# Línea Base LBC - Implementación
+# Línea Base LBC - Implementación (Código)
 
-Aquí se encuentra todo el código fuente y scripts del proyecto MinGO, organizado para el desarrollo y pruebas.
+Línea base que contiene todo el código fuente del proyecto MinGO, incluyendo la aplicación móvil y la API backend.
 
-## Contenido principal:
-- Código fuente frontend y backend
-- Configuraciones y archivos del proyecto (package.json, eslint.config.js, etc.)
-- Servicios y contextos para la lógica de la aplicación
+## Versiones y Variantes
 
-## Fecha de inicio:
-08 de enero de 2026
+| **Código del ECS** | **Nombre completo del ECS** | **Autor(es) del artefacto**              | **Ruta en el repositorio Git**                                            | **Línea base a la que pertenece** | **Tipo de ECS** | **Fecha de creación** | **Última fecha de modificación** |
+| ------------------ | --------------------------- | ---------------------------------------- | ------------------------------------------------------------------------- | --------------------------------- | --------------- | --------------------- | -------------------------------- |
+| APP                | MinGO App                   | Marcos Escobar, Mateo Sosa, Fernando Tipán | 27835_G4_ADS/Biblioteca de Trabajo/1. ELICITACION/1.0 Linea Base/LBC/MinGO_App/ | LBC                               | Código          | 12/01/2026            | 12/01/2026                       |
+| API                | MinGO API                   | Marcos Escobar, Mateo Sosa, Fernando Tipán | 27835_G4_ADS/Biblioteca de Trabajo/1. ELICITACION/1.0 Linea Base/LBC/MinGO_API/ | LBC                               | Código          | 12/01/2026            | 12/01/2026                       |
 
-## Responsables:
+## Descripción del Artefacto
+
+La Línea Base de Código contiene:
+- **MinGO_App:** Aplicación móvil desarrollada en Flutter
+  - Interfaces de usuario
+  - Servicios y contextos para la lógica de la aplicación
+  - Configuraciones del proyecto (pubspec.yaml, etc.)
+- **MinGO_API:** Backend del sistema
+  - Endpoints REST
+  - Lógica de negocio del servidor
+
+## Estructura
+
+```
+LBC/
+├── MinGO_App/          # Aplicación móvil Flutter
+│   ├── lib/            # Código fuente Dart
+│   ├── ios/            # Configuración iOS
+│   ├── android/        # Configuración Android
+│   └── ...
+└── MinGO_API/          # Backend API
+    └── ...
+```
+
+## Historial de Cambios
+
+| **Versión** | **Fecha**   | **Descripción del Cambio**                         | **Autor**   |
+| ----------- | ----------- | -------------------------------------------------- | ----------- |
+| V1.0        | 12/01/2026  | Versión inicial del código fuente en línea base    | Equipo G4   |
+
+## Responsables
+
 Marcos Escobar, Mateo Sosa, Fernando Tipán
