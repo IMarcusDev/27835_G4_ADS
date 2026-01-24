@@ -29,3 +29,8 @@ El documento SRS contiene la especificación completa de requisitos funcionales 
 | -------------------------------- | ----------- | ------------------------- |
 | G4_27835_SRS_ADS_V1.0.pdf        | V1.0        | Versión inicial           |
 | G4_27835_SRS_ADS_V2.0.pdf        | V2.0        | Versión actual corregida  |
+
+## Control de Configuración
+- **Verificado por:** Mateo Sosa (Gestor de Configuración)
+- **Fecha de verificación:** 24/01/2026
+- **Estado:** Estructura conforme a estándares del repositorio
