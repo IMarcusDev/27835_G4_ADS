@@ -36,3 +36,8 @@ El cronograma define la planificación temporal del proyecto MinGO, incluyendo:
 | G4_27835_Cronograma_Sprint0_ADS_V1.0.xlsx   | V1.0        | Cronograma detallado del Sprint 0   |
 | G4_27835_Cronograma_Sprint1_ADS_V1.0.xlsx   | V1.0        | Cronograma detallado del Sprint 1   |
 | G4_27835_Cronograma_Sprint2_ADS_V1.0.xlsx   | V1.0        | Cronograma detallado del Sprint 2   |
+
+## Control de Configuración
+- **Verificado por:** Mateo Sosa (Gestor de Configuración)
+- **Fecha de verificación:** 24/01/2026
+- **Estado:** Versionamiento correcto aplicado
