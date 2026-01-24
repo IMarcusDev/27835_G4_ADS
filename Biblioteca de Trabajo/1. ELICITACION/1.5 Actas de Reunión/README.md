@@ -27,3 +27,8 @@ Las actas de reunión documentan:
 | **Archivo**                         | **Versión** | **Descripción**                          |
 | ----------------------------------- | ----------- | ---------------------------------------- |
 | G4_27835_Acta_Reunion_ADS.pdf       | V1.0        | Actas de reuniones consolidadas          |
+
+## Control de Configuración
+- **Verificado por:** Mateo Sosa (Gestor de Configuración)
+- **Fecha de verificación:** 24/01/2026
+- **Estado:** Registro de reuniones conforme
