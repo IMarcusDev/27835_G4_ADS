@@ -36,3 +36,8 @@ Las historias de usuario describen funcionalidades desde la perspectiva del usua
 | HistoriasUsuario_G4_27835_ADS_v3.0.xlsx  | V3.0        | Actualización de prioridades           |
 | HistoriasUsuario_G4_27835_ADS_v3.5.xlsx  | V3.5        | **Versión actual** - Corrección MTZ HU |
 | Anexo Interfaces de Usuario.pdf          | -           | Mockups de interfaces                  |
+
+## Control de Configuración
+- **Verificado por:** Mateo Sosa (Gestor de Configuración)
+- **Fecha de verificación:** 24/01/2026
+- **Estado:** Nomenclatura de archivos verificada
