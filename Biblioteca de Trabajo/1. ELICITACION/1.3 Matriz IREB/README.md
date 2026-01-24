@@ -31,3 +31,8 @@ La matriz IREB permite la trazabilidad bidireccional entre:
 | G4_27835_Matriz_IREBv1.0.xlsx      | V1.0        | Versión inicial de la matriz de trazabilidad |
 | G4_27835_Matriz_IREBv2.0.xlsx      | V2.0        | Actualización de trazabilidad                |
 | G4_27835_Matriz_IREBv3.0.xlsx      | V3.0        | Versión actual de la matriz de trazabilidad  |
+
+## Control de Configuración
+- **Verificado por:** Mateo Sosa (Gestor de Configuración)
+- **Fecha de verificación:** 24/01/2026
+- **Estado:** Trazabilidad de versiones verificada
