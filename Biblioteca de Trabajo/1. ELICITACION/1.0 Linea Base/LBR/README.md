@@ -34,3 +34,8 @@ La Línea Base de Requisitos contiene:
 ## Responsables
 
 Marcos Escobar, Mateo Sosa, Fernando Tipán
+
+## Control de Configuración
+- **Verificado por:** Mateo Sosa (Gestor de Configuración)
+- **Fecha de verificación:** 25/01/2026
+- **Estado:** LBR conforme a estándares
