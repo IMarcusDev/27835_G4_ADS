@@ -29,3 +29,8 @@ Esta carpeta contiene la documentación relacionada con las pruebas del sistema:
 | -------------------- | ----------- | ------------------------------------- |
 | PP_MinGO_v1.0.pdf    | V1.0        | Plan de Pruebas del proyecto MinGO    |
 | ECP_MinGO_v1.0.pdf   | V1.0        | Especificación de Casos de Prueba     |
+
+## Control de Configuración
+- **Verificado por:** Mateo Sosa (Gestor de Configuración)
+- **Fecha de verificación:** 25/01/2026
+- **Estado:** Documentación de pruebas integrada correctamente
