@@ -36,3 +36,9 @@ El Product Backlog contiene:
 - **Verificado por:** Mateo Sosa (Gestor de Configuración)
 - **Fecha de verificación:** 25/01/2026
 - **Estado:** Estructura del backlog verificada
+
+## Auditoría de Calidad (SQA)
+- **Auditado por:** Fernando Tipán (Responsable SQA)
+- **Fecha de auditoría:** 25/01/2026
+- **Cumplimiento de estándares:** Cumple
+- **Observaciones:** Backlog priorizado correctamente
