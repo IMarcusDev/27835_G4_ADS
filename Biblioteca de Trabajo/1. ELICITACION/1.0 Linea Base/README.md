@@ -49,3 +49,9 @@ El proyecto MinGO utiliza un esquema de 4 líneas base para gestionar la configu
 - **Fecha de verificación:** 25/01/2026
 - **Estado:** Integridad de líneas base verificada
 - **Observación:** Todas las líneas base cumplen con los estándares definidos en el PGS
+
+## Auditoría de Calidad (SQA)
+- **Auditado por:** Fernando Tipán (Responsable SQA)
+- **Fecha de auditoría:** 25/01/2026
+- **Cumplimiento de estándares:** Cumple
+- **Observaciones:** Líneas base establecidas según PGS
