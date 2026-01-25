@@ -36,3 +36,9 @@ La matriz IREB permite la trazabilidad bidireccional entre:
 - **Verificado por:** Mateo Sosa (Gestor de Configuración)
 - **Fecha de verificación:** 24/01/2026
 - **Estado:** Trazabilidad de versiones verificada
+
+## Auditoría de Calidad (SQA)
+- **Auditado por:** Fernando Tipán (Responsable SQA)
+- **Fecha de auditoría:** 24/01/2026
+- **Cumplimiento de estándares:** Cumple
+- **Observaciones:** Trazabilidad de requisitos verificada
