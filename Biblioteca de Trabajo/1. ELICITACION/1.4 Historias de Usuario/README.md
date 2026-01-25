@@ -41,3 +41,9 @@ Las historias de usuario describen funcionalidades desde la perspectiva del usua
 - **Verificado por:** Mateo Sosa (Gestor de Configuración)
 - **Fecha de verificación:** 24/01/2026
 - **Estado:** Nomenclatura de archivos verificada
+
+## Auditoría de Calidad (SQA)
+- **Auditado por:** Fernando Tipán (Responsable SQA)
+- **Fecha de auditoría:** 24/01/2026
+- **Cumplimiento de estándares:** Cumple
+- **Observaciones:** Historias de usuario con criterios de aceptación definidos
