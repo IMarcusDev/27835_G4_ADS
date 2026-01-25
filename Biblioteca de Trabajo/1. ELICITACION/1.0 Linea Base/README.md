@@ -43,3 +43,9 @@ El proyecto MinGO utiliza un esquema de 4 líneas base para gestionar la configu
 | 08/01/2026  | Establecimiento inicial de las 4 líneas base        | Equipo G4   |
 | 12/01/2026  | Actualización de contenido en LBA, LBC, LBD         | Equipo G4   |
 | 15/01/2026  | Adición de DCU a LBR                                | Equipo G4   |
+
+## Control de Configuración
+- **Verificado por:** Mateo Sosa (Gestor de Configuración)
+- **Fecha de verificación:** 25/01/2026
+- **Estado:** Integridad de líneas base verificada
+- **Observación:** Todas las líneas base cumplen con los estándares definidos en el PGS
