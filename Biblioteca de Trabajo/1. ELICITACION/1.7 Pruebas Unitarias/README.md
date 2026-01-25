@@ -34,3 +34,9 @@ Esta carpeta contiene la documentación relacionada con las pruebas del sistema:
 - **Verificado por:** Mateo Sosa (Gestor de Configuración)
 - **Fecha de verificación:** 25/01/2026
 - **Estado:** Documentación de pruebas integrada correctamente
+
+## Auditoría de Calidad (SQA)
+- **Auditado por:** Fernando Tipán (Responsable SQA)
+- **Fecha de auditoría:** 25/01/2026
+- **Cumplimiento de estándares:** Cumple
+- **Observaciones:** Casos de prueba con cobertura adecuada
