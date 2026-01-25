@@ -31,3 +31,8 @@ El Product Backlog contiene:
 | G4_27835_Backlog_ADS_V1.0.xlsx     | V1.0        | Versión inicial                        |
 | G4_27835_Backlog_ADS_V2.0.xlsx     | V2.0        | Repriorización                         |
 | G4_27835_Backlog_ADS_V3.0.xlsx     | V3.0        | **Versión actual** - Post-Sprint 0     |
+
+## Control de Configuración
+- **Verificado por:** Mateo Sosa (Gestor de Configuración)
+- **Fecha de verificación:** 25/01/2026
+- **Estado:** Estructura del backlog verificada
