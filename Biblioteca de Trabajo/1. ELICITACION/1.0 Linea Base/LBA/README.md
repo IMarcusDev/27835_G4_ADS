@@ -35,3 +35,9 @@ Marcos Escobar, Mateo Sosa, Fernando Tipán
 - **Verificado por:** Mateo Sosa (Gestor de Configuración)
 - **Fecha de verificación:** 25/01/2026
 - **Estado:** LBA conforme a estándares
+
+## Auditoría de Calidad (SQA)
+- **Auditado por:** Fernando Tipán (Responsable SQA)
+- **Fecha de auditoría:** 25/01/2026
+- **Cumplimiento de estándares:** Cumple
+- **Observaciones:** Arquitectura documentada correctamente
