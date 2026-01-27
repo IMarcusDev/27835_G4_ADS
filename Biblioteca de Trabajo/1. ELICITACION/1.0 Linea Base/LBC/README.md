@@ -42,3 +42,8 @@ LBC/
 ## Responsables
 
 Marcos Escobar, Mateo Sosa, Fernando Tipán
+
+## Control de Configuración
+- **Verificado por:** Mateo Sosa (Gestor de Configuración)
+- **Fecha de verificación:** 26/01/2026
+- **Estado:** LBC conforme a estándares de código
