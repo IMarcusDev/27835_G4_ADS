@@ -8,3 +8,8 @@
 | DC        | Diagrama de Clases                  | Abstracción del diagrama de arquitectura con las principales clases del sistema       | Fernando Tipán  | LBD            | 15/01/2026              |
 | DCO       | Diagrama de Componentes             | Se detalla los diferentes módulos en los que se divide el sistema MinGO               | Mateo Sosa      | LBD            | 15/01/2026              |
 | DER        | Diagrama Entidad-Relación           | El esquema actualmente implementado en supabase de la base de datos                   | Marcos Escobar  | LBD            | 15/01/2026              |
+
+## Control de Configuración
+- **Verificado por:** Mateo Sosa (Gestor de Configuración)
+- **Fecha de verificación:** 26/01/2026
+- **Estado:** Estructura de diseños conforme al PGS
