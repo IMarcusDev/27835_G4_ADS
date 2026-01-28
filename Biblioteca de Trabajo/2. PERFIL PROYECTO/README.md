@@ -31,3 +31,8 @@ El Perfil de Proyecto es un documento que define las características generales 
 | --------------------------------------- | ----------- | ---------------------------------------- |
 | G4_27835_Perfil_Proyecto_ADS_v1.0.pdf   | V1.0        | Versión inicial del Perfil de Proyecto   |
 | G4_27835_Perfil_Proyecto_ADS_v2.0.pdf   | V2.0        | Versión actual del Perfil de Proyecto    |
+
+## Control de Configuración
+- **Verificado por:** Mateo Sosa (Gestor de Configuración)
+- **Fecha de verificación:** 27/01/2026
+- **Estado:** Perfil de proyecto conforme a estándares
