@@ -36,3 +36,9 @@ El Perfil de Proyecto es un documento que define las características generales 
 - **Verificado por:** Mateo Sosa (Gestor de Configuración)
 - **Fecha de verificación:** 27/01/2026
 - **Estado:** Perfil de proyecto conforme a estándares
+
+## Auditoría de Calidad (SQA)
+- **Auditado por:** Fernando Tipán (Responsable SQA)
+- **Fecha de auditoría:** 27/01/2026
+- **Cumplimiento de estándares:** Cumple
+- **Observaciones:** Perfil completo con alcance definido
