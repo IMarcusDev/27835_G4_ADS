@@ -13,9 +13,9 @@
 [submodule "CÓDIGO/MinGO_API"]
 	path = CÓDIGO/MinGO_API
 	url = https://github.com/MatSosa1/MinGO_API
-[submodule "Biblioteca de Trabajo/1. ELICITACION/1.0 Linea Base/LBC/MinGO_App"]
-	path = Biblioteca de Trabajo/1. ELICITACION/1.0 Linea Base/LBC/MinGO_App
-	url = git@github.com:IMarcusDev/MinGO_App_Enterprise.git
 [submodule "Biblioteca de Trabajo/1. ELICITACION/1.0 Linea Base/LBC/MinGO_API"]
 	path = Biblioteca de Trabajo/1. ELICITACION/1.0 Linea Base/LBC/MinGO_API
-	url = git@github.com:IMarcusDev/MinGO_API_Enterprise.git
+	url = https://github.com/IMarcusDev/MinGO_API_Enterprise.git
+[submodule "Biblioteca de Trabajo/1. ELICITACION/1.0 Linea Base/LBC/MinGO_APP"]
+	path = Biblioteca de Trabajo/1. ELICITACION/1.0 Linea Base/LBC/MinGO_APP
+	url = https://github.com/IMarcusDev/MinGO_App_Enterprise.git
