@@ -8,3 +8,9 @@
 - **Verificado por:** Mateo Sosa (Gestor de Configuración)
 - **Fecha de verificación:** 27/01/2026
 - **Estado:** Casos de uso verificados
+
+## Auditoría de Calidad (SQA)
+- **Auditado por:** Fernando Tipán (Responsable SQA)
+- **Fecha de auditoría:** 27/01/2026
+- **Cumplimiento de estándares:** Cumple
+- **Observaciones:** Casos de uso con flujos alternativos definidos
