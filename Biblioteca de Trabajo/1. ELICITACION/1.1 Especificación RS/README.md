@@ -34,6 +34,8 @@ El documento SRS contiene la especificación completa de requisitos funcionales 
 - **Verificado por:** Mateo Sosa (Gestor de Configuración)
 - **Fecha de verificación:** 24/01/2026
 - **Estado:** Estructura conforme a estándares del repositorio
+- **Aprobado por Comité:** Sí
+- **Fecha de aprobación:** 28/01/2026
 
 ## Auditoría de Calidad (SQA)
 - **Auditado por:** Fernando Tipán (Responsable SQA)
