@@ -41,6 +41,8 @@ El cronograma define la planificación temporal del proyecto MinGO, incluyendo:
 - **Verificado por:** Mateo Sosa (Gestor de Configuración)
 - **Fecha de verificación:** 24/01/2026
 - **Estado:** Versionamiento correcto aplicado
+- **Aprobado por Comité:** Sí
+- **Fecha de aprobación:** 28/01/2026
 
 ## Auditoría de Calidad (SQA)
 - **Auditado por:** Fernando Tipán (Responsable SQA)
