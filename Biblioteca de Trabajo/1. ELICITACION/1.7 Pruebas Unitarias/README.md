@@ -6,7 +6,7 @@ Documentación de pruebas unitarias y plan de pruebas del proyecto MinGO.
 
 | **Código del ECS** | **Nombre completo del ECS**       | **Autor(es) del artefacto**                | **Ruta en el repositorio Git**                                           | **Línea base a la que pertenece** | **Tipo de ECS** | **Fecha de creación** | **Última fecha de modificación** |
 | ------------------ | --------------------------------- | ------------------------------------------ | ------------------------------------------------------------------------ | --------------------------------- | --------------- | --------------------- | -------------------------------- |
-| PP                 | Plan de Pruebas                   | Marcos Escobar, Mateo Sosa, Fernando Tipán | 27835_G4_ADS/Biblioteca de Trabajo/1. ELICITACION/1.7 Pruebas Unitarias/ | -                                 | Documentación   | 20/01/2026            | 20/01/2026                       |
+| PP                 | Plan de Pruebas                   | Marcos Escobar, Mateo Sosa, Fernando Tipán | 27835_G4_ADS/Biblioteca de Trabajo/1. ELICITACION/1.7 Pruebas Unitarias/ | -                                 | Documentación   | 20/01/2026            | 28/01/2026                       |
 | ECP                | Especificación de Casos de Prueba | Marcos Escobar, Mateo Sosa, Fernando Tipán | 27835_G4_ADS/Biblioteca de Trabajo/1. ELICITACION/1.7 Pruebas Unitarias/ | -                                 | Documentación   | 20/01/2026            | 20/01/2026                       |
 
 ## Descripción del Artefacto
@@ -21,13 +21,17 @@ Esta carpeta contiene la documentación relacionada con las pruebas del sistema:
 | **Versión** | **Fecha**   | **Descripción del Cambio**                     | **Autor**   |
 | ----------- | ----------- | ---------------------------------------------- | ----------- |
 | V1.0        | 20/01/2026  | Versión inicial del Plan de Pruebas            | Equipo G4   |
+| V1.5        | 28/01/2026  | Agregado conclusiones y recomendaciones        | Equipo G4   |
 | V1.0        | 20/01/2026  | Versión inicial de Especificación de Casos     | Equipo G4   |
+
+
 
 ## Archivos
 
 | **Archivo**          | **Versión** | **Descripción**                       |
 | -------------------- | ----------- | ------------------------------------- |
 | PP_MinGO_v1.0.pdf    | V1.0        | Plan de Pruebas del proyecto MinGO    |
+| PP_MinGO_v1.5.pdf    | V1.5        | Plan de Pruebas del Proyecto MinGO Actual|
 | ECP_MinGO_v1.0.pdf   | V1.0        | Especificación de Casos de Prueba     |
 
 ## Control de Configuración
