@@ -33,7 +33,7 @@ La Línea Base de Requisitos contiene:
 
 ## Responsables
 
-Marcos Escobar, Mateo Sosa, Fernando Tipán
+Marcos Escobar, Mateo Sosa, Fernando Tipan
 
 ## Control de Configuración
 - **Verificado por:** Mateo Sosa (Gestor de Configuración)
@@ -41,7 +41,7 @@ Marcos Escobar, Mateo Sosa, Fernando Tipán
 - **Estado:** LBR conforme a estándares
 
 ## Auditoría de Calidad (SQA)
-- **Auditado por:** Fernando Tipán (Responsable SQA)
+- **Auditado por:** Fernando Tipan (Responsable SQA)
 - **Fecha de auditoría:** 25/01/2026
 - **Cumplimiento de estándares:** Cumple
 - **Observaciones:** Requisitos trazables y verificables
