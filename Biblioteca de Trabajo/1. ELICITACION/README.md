@@ -34,3 +34,9 @@ Documentación de la fase de elicitación de requisitos del proyecto MinGO.
 - **Verificado por:** Mateo Sosa (Gestor de Configuración)
 - **Fecha de verificación:** 28/01/2026
 - **Estado:** Estructura de elicitación verificada completamente
+
+## Auditoría de Calidad (SQA)
+- **Auditado por:** Fernando Tipán (Responsable SQA)
+- **Fecha de auditoría:** 28/01/2026
+- **Cumplimiento de estándares:** Cumple
+- **Observaciones:** Proceso de elicitación documentado completamente
