@@ -47,3 +47,5 @@ Esta carpeta contiene la documentación relacionada con las pruebas del sistema:
 - **Fecha de auditoría:** 25/01/2026
 - **Cumplimiento de estándares:** Cumple
 - **Observaciones:** Casos de prueba con cobertura adecuada
+- **Revisión final:** Aprobado
+- **Fecha revisión final:** 29/01/2026
