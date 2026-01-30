@@ -44,3 +44,5 @@ El Perfil de Proyecto es un documento que define las características generales 
 - **Fecha de auditoría:** 27/01/2026
 - **Cumplimiento de estándares:** Cumple
 - **Observaciones:** Perfil completo con alcance definido
+- **Revisión final:** Aprobado
+- **Fecha revisión final:** 29/01/2026
