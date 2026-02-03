@@ -19,3 +19,15 @@
 [submodule "Biblioteca de Trabajo/1. ELICITACION/1.0 Linea Base/LBC/MinGO_APP"]
 	path = Biblioteca de Trabajo/1. ELICITACION/1.0 Linea Base/LBC/MinGO_APP
 	url = https://github.com/IMarcusDev/MinGO_App_Enterprise.git
+[submodule "Biblioteca Soporte/1. ELICITACION/1.0 Linea Base/LBC/MinGO_APP"]
+	path = Biblioteca Soporte/1. ELICITACION/1.0 Linea Base/LBC/MinGO_APP
+	url = https://github.com/IMarcusDev/MinGO_App_Enterprise.git
+[submodule "Biblioteca Soporte/1. ELICITACION/1.0 Linea Base/LBC/MinGO_API"]
+	path = Biblioteca Soporte/1. ELICITACION/1.0 Linea Base/LBC/MinGO_API
+	url = https://github.com/IMarcusDev/MinGO_API_Enterprise.git
+[submodule "Biblioteca Maestra/1. ELICITACION/1.0 Linea Base/LBC/MinGO_APP"]
+	path = Biblioteca Maestra/1. ELICITACION/1.0 Linea Base/LBC/MinGO_APP
+	url = https://github.com/IMarcusDev/MinGO_App_Enterprise.git
+[submodule "Biblioteca Maestra/1. ELICITACION/1.0 Linea Base/LBC/MinGO_API"]
+	path = Biblioteca Maestra/1. ELICITACION/1.0 Linea Base/LBC/MinGO_API
+	url = https://github.com/IMarcusDev/MinGO_API_Enterprise.git
