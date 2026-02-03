@@ -1,12 +1,12 @@
-# Historias de Usuario
+# Historias de Usuario - VERSIÓN FINAL
 
-Especificación de historias de usuario del sistema MinGO con criterios de aceptación.
+**Biblioteca Maestra** - Contiene únicamente la versión final aprobada de las historias de usuario del sistema MinGO con criterios de aceptación.
 
-## Versiones y Variantes
+## Versión Final
 
 | **Código del ECS** | **Nombre completo del ECS** | **Autor(es) del artefacto**              | **Ruta en el repositorio Git**                                             | **Línea base a la que pertenece** | **Tipo de ECS** | **Fecha de creación** | **Última fecha de modificación** |
 | ------------------ | --------------------------- | ---------------------------------------- | -------------------------------------------------------------------------- | --------------------------------- | --------------- | --------------------- | -------------------------------- |
-| HU                 | Historias de Usuario        | Marcos Escobar, Mateo Sosa, Fernando Tipán | 27835_G4_ADS/Biblioteca de Trabajo/1. ELICITACION/1.4 Historias de Usuario/ | LBR                               | Documentación   | 25/11/2025            | 11/12/2025                       |
+| HU                 | Historias de Usuario        | Marcos Escobar, Mateo Sosa, Fernando Tipán | 27835_G4_ADS/Biblioteca Maestra/1. ELICITACION/1.4 Historias de Usuario/ | LBR                               | Documentación   | 25/11/2025            | 11/12/2025                       |
 
 ## Descripción del Artefacto
 
@@ -16,26 +16,15 @@ Las historias de usuario describen funcionalidades desde la perspectiva del usua
 - Prioridad y estimación
 - Dependencias entre historias
 
-## Historial de Cambios
+## Trazabilidad y Versionamiento
 
-| **Versión** | **Fecha**   | **Descripción del Cambio**                                    | **Autor**   |
-| ----------- | ----------- | ------------------------------------------------------------- | ----------- |
-| V1.0        | 25/11/2025  | Versión inicial de historias de usuario                       | Equipo G4   |
-| V2.0        | 25/11/2025  | Refinamiento de historias y criterios de aceptación           | Equipo G4   |
-| V2.1        | 25/11/2025  | Correcciones menores                                          | Equipo G4   |
-| V3.0        | 10/12/2025  | Actualización de prioridades y nuevas historias               | Equipo G4   |
-| V3.5        | 11/12/2025  | Corrección de MTZ HU según retroalimentación                  | Equipo G4   |
+Durante el desarrollo se generaron 5 versiones (V1.0, V2.0, V2.1, V3.0, V3.5). Esta biblioteca contiene únicamente la **versión final V3.5** con correcciones de matriz de trazabilidad, aprobada por el comité de configuración el 29/01/2026. El historial completo de versiones se encuentra en la Biblioteca de Trabajo.
 
-## Archivos
+## Archivo Final
 
-| **Archivo**                              | **Versión** | **Descripción**                        |
-| ---------------------------------------- | ----------- | -------------------------------------- |
-| HistoriasUsuario_G4_27835_ADS_v1.0.xlsx  | V1.0        | Versión inicial                        |
-| HistoriasUsuario_G4_27835_ADS_v2.0.xlsx  | V2.0        | Refinamiento de criterios              |
-| HistoriasUsuario_G4_27835_ADS_v2.1.xlsx  | V2.1        | Correcciones menores                   |
-| HistoriasUsuario_G4_27835_ADS_v3.0.xlsx  | V3.0        | Actualización de prioridades           |
-| HistoriasUsuario_G4_27835_ADS_v3.5.xlsx  | V3.5        | **Versión actual** - Corrección MTZ HU |
-| Anexo Interfaces de Usuario.pdf          | -           | Mockups de interfaces                  |
+| **Archivo**                              | **Versión** | **Estado**                                  |
+| ---------------------------------------- | ----------- | ------------------------------------------- |
+| HistoriasUsuario_G4_27835_ADS_v3.5.xlsx  | V3.5        | **VERSIÓN FINAL APROBADA** - Corrección MTZ HU |
 
 ## Control de Configuración
 - **Verificado por:** Mateo Sosa (Gestor de Configuración)

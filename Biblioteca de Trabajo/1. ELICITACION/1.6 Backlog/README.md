@@ -23,6 +23,7 @@ El Product Backlog contiene:
 | V1.0        | 25/11/2025  | Versión inicial del backlog                             | Equipo G4   |
 | V2.0        | 10/12/2025  | Repriorización y ajuste de estimaciones                 | Equipo G4   |
 | V3.0        | 10/12/2025  | Actualización post-Sprint 0 con nuevos ítems            | Equipo G4   |
+| V4.0        | 03/02/2026  | Actualización final del backlog con nuevos ítems        | Equipo G4   |
 
 ## Archivos
 
@@ -30,7 +31,8 @@ El Product Backlog contiene:
 | ---------------------------------- | ----------- | -------------------------------------- |
 | G4_27835_Backlog_ADS_V1.0.xlsx     | V1.0        | Versión inicial                        |
 | G4_27835_Backlog_ADS_V2.0.xlsx     | V2.0        | Repriorización                         |
-| G4_27835_Backlog_ADS_V3.0.xlsx     | V3.0        | **Versión actual** - Post-Sprint 0     |
+| G4_27835_Backlog_ADS_V3.0.xlsx     | V3.0        | Post-Sprint 0                          |
+| G4_27835_Backlog_ADS_V4.0.xlsx     | V4.0        | **Versión actual** - Actualización final |
 
 ## Control de Configuración
 - **Verificado por:** Mateo Sosa (Gestor de Configuración)

@@ -1,13 +1,13 @@
-# Pruebas Unitarias
+# Pruebas Unitarias - VERSIÓN FINAL DE SOPORTE
 
-Documentación de pruebas unitarias y plan de pruebas del proyecto MinGO.
+**Biblioteca Soporte** - Contiene respaldo de las versiones finales aprobadas para soporte y trazabilidad del proyecto MinGO.
 
-## Versiones y Variantes
+## Versión Final de Soporte
 
 | **Código del ECS** | **Nombre completo del ECS**       | **Autor(es) del artefacto**                | **Ruta en el repositorio Git**                                           | **Línea base a la que pertenece** | **Tipo de ECS** | **Fecha de creación** | **Última fecha de modificación** |
 | ------------------ | --------------------------------- | ------------------------------------------ | ------------------------------------------------------------------------ | --------------------------------- | --------------- | --------------------- | -------------------------------- |
-| PP                 | Plan de Pruebas                   | Marcos Escobar, Mateo Sosa, Fernando Tipán | 27835_G4_ADS/Biblioteca de Trabajo/1. ELICITACION/1.7 Pruebas Unitarias/ | -                                 | Documentación   | 20/01/2026            | 28/01/2026                       |
-| ECP                | Especificación de Casos de Prueba | Marcos Escobar, Mateo Sosa, Fernando Tipán | 27835_G4_ADS/Biblioteca de Trabajo/1. ELICITACION/1.7 Pruebas Unitarias/ | -                                 | Documentación   | 20/01/2026            | 20/01/2026                       |
+| PP                 | Plan de Pruebas                   | Marcos Escobar, Mateo Sosa, Fernando Tipán | 27835_G4_ADS/Biblioteca Soporte/1. ELICITACION/1.7 Pruebas Unitarias/ | -                                 | Documentación   | 20/01/2026            | 28/01/2026                       |
+| ECP                | Especificación de Casos de Prueba | Marcos Escobar, Mateo Sosa, Fernando Tipán | 27835_G4_ADS/Biblioteca Soporte/1. ELICITACION/1.7 Pruebas Unitarias/ | -                                 | Documentación   | 20/01/2026            | 20/01/2026                       |
 
 ## Descripción del Artefacto
 
@@ -16,23 +16,16 @@ Esta carpeta contiene la documentación relacionada con las pruebas del sistema:
 - **Plan de Pruebas (PP):** Define la estrategia, alcance, recursos y cronograma de las actividades de prueba.
 - **Especificación de Casos de Prueba (ECP):** Detalla los casos de prueba específicos, incluyendo precondiciones, pasos y resultados esperados.
 
-## Historial de Cambios
+## Trazabilidad y Versionamiento
 
-| **Versión** | **Fecha**   | **Descripción del Cambio**                     | **Autor**   |
-| ----------- | ----------- | ---------------------------------------------- | ----------- |
-| V1.0        | 20/01/2026  | Versión inicial del Plan de Pruebas            | Equipo G4   |
-| V1.5        | 28/01/2026  | Agregado conclusiones y recomendaciones        | Equipo G4   |
-| V1.0        | 20/01/2026  | Versión inicial de Especificación de Casos     | Equipo G4   |
+Durante el desarrollo se generaron 3 versiones del Plan de Pruebas (V1.0 - V1.5) y 1 versión de la Especificación de Casos de Prueba (V1.0). Esta biblioteca contiene las **versiones finales de soporte** aprobadas por el comité de configuración el 29/01/2026. El historial completo de versiones se encuentra en la Biblioteca de Trabajo.
 
+## Archivos Finales de Soporte
 
-
-## Archivos
-
-| **Archivo**          | **Versión** | **Descripción**                       |
+| **Archivo**          | **Versión** | **Estado**                       |
 | -------------------- | ----------- | ------------------------------------- |
-| PP_MinGO_v1.0.pdf    | V1.0        | Plan de Pruebas del proyecto MinGO    |
-| PP_MinGO_v1.5.pdf    | V1.5        | Plan de Pruebas del Proyecto MinGO Actual|
-| ECP_MinGO_v1.0.pdf   | V1.0        | Especificación de Casos de Prueba     |
+| PP_MinGO_v1.5.pdf    | V1.5        | **VERSIÓN FINAL APROBADA** - Plan de Pruebas con conclusiones |
+| ECP_MinGO_v1.0.pdf   | V1.0        | **VERSIÓN FINAL APROBADA** - Especificación de Casos de Prueba     |
 
 ## Control de Configuración
 - **Verificado por:** Mateo Sosa (Gestor de Configuración)

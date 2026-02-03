@@ -1,12 +1,12 @@
-# Especificación de Requisitos de Software (SRS)
+# Especificación de Requisitos de Software (SRS) - VERSIÓN FINAL
 
-Documento de especificación de requisitos del sistema MinGO según el estándar IEEE 830.
+**Biblioteca Maestra** - Contiene únicamente la versión final aprobada del documento de especificación de requisitos del sistema MinGO según el estándar IEEE 830.
 
-## Versiones y Variantes
+## Versión Final
 
 | **Código del ECS** | **Nombre completo del ECS**         | **Autor(es) del artefacto**              | **Ruta en el repositorio Git**                                           | **Línea base a la que pertenece** | **Tipo de ECS** | **Fecha de creación** | **Última fecha de modificación** |
 | ------------------ | ----------------------------------- | ---------------------------------------- | ------------------------------------------------------------------------ | --------------------------------- | --------------- | --------------------- | -------------------------------- |
-| SRS                | Especificación de Requisitos de Software | Marcos Escobar, Mateo Sosa, Fernando Tipán | 27835_G4_ADS/Biblioteca de Trabajo/1. ELICITACION/1.1 Especificación RS/ | LBR                               | Documentación   | 25/11/2025            | 10/12/2025                       |
+| SRS                | Especificación de Requisitos de Software | Marcos Escobar, Mateo Sosa, Fernando Tipán | 27835_G4_ADS/Biblioteca Maestra/1. ELICITACION/1.1 Especificación RS/ | LBR                               | Documentación   | 25/11/2025            | 10/12/2025                       |
 
 ## Descripción del Artefacto
 
@@ -16,19 +16,15 @@ El documento SRS contiene la especificación completa de requisitos funcionales 
 - Requisitos no funcionales (rendimiento, seguridad, usabilidad)
 - Restricciones y dependencias
 
-## Historial de Cambios
+## Trazabilidad y Versionamiento
 
-| **Versión** | **Fecha**   | **Descripción del Cambio**                         | **Autor**        |
-| ----------- | ----------- | -------------------------------------------------- | ---------------- |
-| V1.0        | 25/11/2025  | Versión inicial del documento SRS                  | Equipo G4        |
-| V2.0        | 10/12/2025  | Actualización de requisitos y correcciones         | Equipo G4        |
+Durante el desarrollo se generaron 2 versiones (V1.0 - V2.0). Esta biblioteca contiene únicamente la **versión final V2.0** aprobada por el comité de configuración el 28/01/2026. El historial completo de versiones se encuentra en la Biblioteca de Trabajo.
 
-## Archivos
+## Archivo Final
 
-| **Archivo**                      | **Versión** | **Descripción**           |
-| -------------------------------- | ----------- | ------------------------- |
-| G4_27835_SRS_ADS_V1.0.pdf        | V1.0        | Versión inicial           |
-| G4_27835_SRS_ADS_V2.0.pdf        | V2.0        | Versión actual corregida  |
+| **Archivo**                      | **Versión** | **Estado**                                     |
+| -------------------------------- | ----------- | ---------------------------------------------- |
+| G4_27835_SRS_ADS_V2.0.pdf        | V2.0        | **VERSIÓN FINAL APROBADA** - Versión corregida |
 
 ## Control de Configuración
 - **Verificado por:** Mateo Sosa (Gestor de Configuración)
