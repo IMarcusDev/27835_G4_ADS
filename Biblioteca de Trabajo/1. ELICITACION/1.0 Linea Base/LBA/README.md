@@ -6,12 +6,14 @@ Línea base que contiene los documentos y diagramas relacionados con la fase de 
 
 | **Código del ECS** | **Nombre completo del ECS**    | **Autor(es) del artefacto**              | **Ruta en el repositorio Git**                                            | **Línea base a la que pertenece** | **Tipo de ECS** | **Fecha de creación** | **Última fecha de modificación** |
 | ------------------ | ------------------------------ | ---------------------------------------- | ------------------------------------------------------------------------- | --------------------------------- | --------------- | --------------------- | -------------------------------- |
-| DA                 | Diagrama de Actividades MinGO  | Marcos Escobar, Mateo Sosa, Fernando Tipán | 27835_G4_ADS/Biblioteca de Trabajo/1. ELICITACION/1.0 Linea Base/LBA/     | LBA                               | Documentación   | 12/01/2026            | 12/01/2026                       |
+| MN                 | Modelo de Negocio              | Marcos Escobar, Mateo Sosa, Fernando Tipán | 27835_G4_ADS/Biblioteca de Trabajo/1. ELICITACION/1.0 Linea Base/LBA/     | LBA                               | Documentación   | 03/02/2026            | 03/02/2026                       |
+| AC                 | Análisis de Costos             | Marcos Escobar, Mateo Sosa, Fernando Tipán | 27835_G4_ADS/Biblioteca de Trabajo/1. ELICITACION/1.0 Linea Base/LBA/     | LBA                               | Documentación   | 03/02/2026            | 03/02/2026                       |
 
 ## Descripción del Artefacto
 
 La Línea Base de Análisis contiene:
-- Diagramas de actividades del sistema MinGO
+- Modelo de negocio del proyecto MinGO
+- Análisis de costos y viabilidad financiera
 - Documentación de análisis funcional
 - Modelado de procesos de negocio
 
@@ -19,13 +21,14 @@ La Línea Base de Análisis contiene:
 
 | **Archivo**            | **Versión** | **Descripción**                                      |
 | ---------------------- | ----------- | ---------------------------------------------------- |
-| MinGO Activity.pdf     | V1.0        | Diagrama de actividades del flujo principal del sistema |
+| Modelo Negocio.pdf     | V1.0        | Modelo de negocio del proyecto MinGO                 |
+| Analisis_Costos.pdf    | V1.0        | Análisis de costos y viabilidad financiera           |
 
 ## Historial de Cambios
 
 | **Versión** | **Fecha**   | **Descripción del Cambio**                    | **Autor**   |
 | ----------- | ----------- | --------------------------------------------- | ----------- |
-| V1.0        | 12/01/2026  | Versión inicial del diagrama de actividades   | Equipo G4   |
+| V1.0        | 03/02/2026  | Versión inicial de documentos de análisis     | Equipo G4   |
 
 ## Responsables
 

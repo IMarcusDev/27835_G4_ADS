@@ -1,31 +1,32 @@
-# Línea Base LBA - Análisis
+# Línea Base LBA - Análisis - VERSIÓN FINAL DE SOPORTE
 
-Línea base que contiene los documentos y diagramas relacionados con la fase de análisis del proyecto MinGO.
+**Biblioteca Soporte** - Contiene respaldo de las versiones finales aprobadas de los documentos relacionados con la fase de análisis del proyecto MinGO para soporte y trazabilidad.
 
-## Versiones y Variantes
+## Versiones Finales de Soporte
 
 | **Código del ECS** | **Nombre completo del ECS**    | **Autor(es) del artefacto**              | **Ruta en el repositorio Git**                                            | **Línea base a la que pertenece** | **Tipo de ECS** | **Fecha de creación** | **Última fecha de modificación** |
 | ------------------ | ------------------------------ | ---------------------------------------- | ------------------------------------------------------------------------- | --------------------------------- | --------------- | --------------------- | -------------------------------- |
-| DA                 | Diagrama de Actividades MinGO  | Marcos Escobar, Mateo Sosa, Fernando Tipán | 27835_G4_ADS/Biblioteca de Trabajo/1. ELICITACION/1.0 Linea Base/LBA/     | LBA                               | Documentación   | 12/01/2026            | 12/01/2026                       |
+| MN                 | Modelo de Negocio              | Marcos Escobar, Mateo Sosa, Fernando Tipán | 27835_G4_ADS/Biblioteca Soporte/1. ELICITACION/1.0 Linea Base/LBA/     | LBA                               | Documentación   | 03/02/2026            | 03/02/2026                       |
+| AC                 | Análisis de Costos             | Marcos Escobar, Mateo Sosa, Fernando Tipán | 27835_G4_ADS/Biblioteca Soporte/1. ELICITACION/1.0 Linea Base/LBA/     | LBA                               | Documentación   | 03/02/2026            | 03/02/2026                       |
 
 ## Descripción del Artefacto
 
 La Línea Base de Análisis contiene:
-- Diagramas de actividades del sistema MinGO
+- Modelo de negocio del proyecto MinGO
+- Análisis de costos y viabilidad financiera
 - Documentación de análisis funcional
 - Modelado de procesos de negocio
 
-## Contenido
+## Trazabilidad y Versionamiento
 
-| **Archivo**            | **Versión** | **Descripción**                                      |
+Esta biblioteca contiene las **versiones finales V1.0** de soporte de los documentos de análisis, aprobados por el comité de configuración. El historial completo de versiones se encuentra en la Biblioteca de Trabajo.
+
+## Archivos Finales de Soporte
+
+| **Archivo**            | **Versión** | **Estado**                                           |
 | ---------------------- | ----------- | ---------------------------------------------------- |
-| MinGO Activity.pdf     | V1.0        | Diagrama de actividades del flujo principal del sistema |
-
-## Historial de Cambios
-
-| **Versión** | **Fecha**   | **Descripción del Cambio**                    | **Autor**   |
-| ----------- | ----------- | --------------------------------------------- | ----------- |
-| V1.0        | 12/01/2026  | Versión inicial del diagrama de actividades   | Equipo G4   |
+| Modelo Negocio.pdf     | V1.0        | **VERSIÓN FINAL APROBADA** - Modelo de negocio       |
+| Analisis_Costos.pdf    | V1.0        | **VERSIÓN FINAL APROBADA** - Análisis de costos      |
 
 ## Responsables
 
@@ -33,11 +34,11 @@ Marcos Escobar, Mateo Sosa, Fernando Tipan
 
 ## Control de Configuración
 - **Verificado por:** Mateo Sosa (Gestor de Configuración)
-- **Fecha de verificación:** 25/01/2026
+- **Fecha de verificación:** 03/02/2026
 - **Estado:** LBA conforme a estándares
 
 ## Auditoría de Calidad (SQA)
 - **Auditado por:** Fernando Tipan (Responsable SQA)
-- **Fecha de auditoría:** 25/01/2026
+- **Fecha de auditoría:** 03/02/2026
 - **Cumplimiento de estándares:** Cumple
-- **Observaciones:** Arquitectura documentada correctamente
+- **Observaciones:** Documentos de análisis verificados correctamente
